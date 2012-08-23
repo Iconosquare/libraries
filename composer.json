@@ -6,7 +6,7 @@
     "homepage": "http://aws.amazon.com/s3/",
     "autoload": {
         "psr-0": {
-            "classmap": ["lib/"]
+            "files": ["lib/S3.php"]
         }
     }
 }
