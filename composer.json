@@ -5,9 +5,7 @@
     "keywords": ["amazon", "amazon S3"],
     "homepage": "http://aws.amazon.com/s3/",
     "autoload": {
-        "psr-0": {
-            "Amazon": ["lib/"]
-        }
+        "psr-0": { "Amazon": "lib/" }
     }
 }
 
