@@ -6,11 +6,6 @@
     "homepage": "http://aws.amazon.com/s3/",
     "autoload": {
         "psr-0": {
-            "Silex": "src/"
-        }
-    },
-    "autoload": {
-        "psr-0": {
             "S3": ["./"]
         }
     },
