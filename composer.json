@@ -8,6 +8,14 @@
         "psr-0": {
             "Silex": "src/"
         }
-    }
+    },
+    "autoload": {
+        "psr-0": {
+            "S3": ["./"]
+        }
+    },
+    "config": {
+        "vendor-dir": "src/vendors"
+    },
 }
 
