@@ -2,7 +2,7 @@
     "name": "tripnity/amazon-s3",
     "type": "library",
     "description": "Amazon S3 PHP class",
-    "keywords": ["amazon"],
+    "keywords": ["amazon", "amazon S3"],
     "homepage": "http://aws.amazon.com/s3/",
     "autoload": {
         "psr-0": {
