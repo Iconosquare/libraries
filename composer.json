@@ -8,9 +8,6 @@
         "psr-0": {
             "S3": "lib/"
         }
-    },
-    "config": {
-        "vendor-dir": "src/vendors"
     }
 }
 
