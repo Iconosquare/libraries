@@ -1,0 +1,13 @@
+{
+    "name": "tripnity/amazon-S3",
+    "type": "library",
+    "description": "Amazon S3 PHP class",
+    "keywords": ["amazon"],
+    "homepage": "http://aws.amazon.com/s3/",
+    "autoload": {
+        "psr-0": {
+            "Silex": "src/"
+        }
+    }
+}
+
