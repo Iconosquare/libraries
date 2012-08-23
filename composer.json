@@ -1,5 +1,5 @@
 {
-    "name": "tripnity/amazon-s3",
+    "name": "tripnity/amazons3",
     "type": "library",
     "description": "Amazon S3 PHP class",
     "keywords": ["amazon", "amazon S3"],
