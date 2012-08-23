@@ -35,6 +35,7 @@
 * @version 0.4.0
 */
 
+namespace Amazon;
         
 class S3 {
 	// ACL flags
@@ -42,7 +43,7 @@ class S3 {
 	const ACL_PUBLIC_READ = 'public-read';
 	const ACL_PUBLIC_READ_WRITE = 'public-read-write';
 	const ACL_AUTHENTICATED_READ = 'authenticated-read';
-        const ADDRESS = 'https://s3.amazonaws.com/';
+    const ADDRESS = 'https://s3.amazonaws.com/';
 
 	public static $useSSL = true;
 
