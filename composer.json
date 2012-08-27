@@ -6,8 +6,7 @@
     "homepage": "https://github.com/Tripnity/libraries",
     "autoload": {
         "psr-0": { 
-            "Amazon": "lib/",
-            "Recaptcha": 'lib/'
+            "Libraries": "lib/"
         }
     }
 }
