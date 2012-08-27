@@ -35,7 +35,7 @@
 * @version 0.4.0
 */
 
-namespace Librairies;
+namespace Libraries;
         
 class S3 {
 	// ACL flags
