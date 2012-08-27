@@ -5,9 +5,7 @@
     "keywords": ["amazon", "amazon S3", "ReCpatcha"],
     "homepage": "https://github.com/Tripnity/libraries",
     "autoload": {
-        "psr-0": { 
-            "Externe": "lib/"
-        }
+        "psr-0": { "Externe": "lib/"}
     }
 }
 

@@ -17,7 +17,7 @@
 * available at :
 * http://rainx.phpmore.com/manual/cache_lite.html
 *
-* @package Cache_Lite
+* @package CacheLite
 * @category Caching
 * @version $Id: Lite.php 308851 2011-03-02 11:01:42Z tacker $
 * @author Fabien MARTY <fab@php.net>
