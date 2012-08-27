@@ -23,7 +23,7 @@
 * @author Fabien MARTY <fab@php.net>
 */
 
-namespace Externe\Cachelite;
+namespace Externe\Cache_lite;
 
 define('CACHE_LITE_ERROR_RETURN', 1);
 define('CACHE_LITE_ERROR_DIE', 8);
