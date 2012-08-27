@@ -25,6 +25,7 @@
 
 namespace Externe\Cachelite;
 
+
 define('CACHE_LITE_ERROR_RETURN', 1);
 define('CACHE_LITE_ERROR_DIE', 8);
 
