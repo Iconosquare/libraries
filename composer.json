@@ -1,11 +1,14 @@
 {
-    "name": "tripnity/amazons3",
+    "name": "tripnity/libraries",
     "type": "library",
-    "description": "Amazon S3 PHP class",
-    "keywords": ["amazon", "amazon S3"],
-    "homepage": "http://aws.amazon.com/s3/",
+    "description": "Librairies for Statigram",
+    "keywords": ["amazon", "amazon S3", "ReCpatcha"],
+    "homepage": "https://github.com/Tripnity/libraries",
     "autoload": {
-        "psr-0": { "Amazon": "lib/" }
+        "psr-0": { 
+            "Amazon": "lib/",
+            "Recaptcha": 'lib/'
+        }
     }
 }
 
