@@ -32,7 +32,7 @@
  * THE SOFTWARE.
  */
 
-namespace Libraries;
+namespace Libraries\Recaptcha;
 
 /**
  * The reCAPTCHA server URL's
