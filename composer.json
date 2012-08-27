@@ -6,7 +6,7 @@
     "homepage": "https://github.com/Tripnity/libraries",
     "autoload": {
         "psr-0": { 
-            "Libraries": "lib/"
+            "Externe": "lib/"
         }
     }
 }

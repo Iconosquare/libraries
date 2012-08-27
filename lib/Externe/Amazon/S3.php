@@ -35,7 +35,7 @@
 * @version 0.4.0
 */
 
-namespace Libraries\Amazon;
+namespace Externe\Amazon;
         
 class S3 {
 	// ACL flags
